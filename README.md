@@ -34,12 +34,12 @@
  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="30"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="30"/>
   <!-- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> -->
- <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+ <img  alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
 
    <!-- <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="chartjs" width="40" height="40"/>
