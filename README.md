@@ -5,7 +5,7 @@
 
  <div> 
   <a href = "mailto:mulikateteangella@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.linkedin.com/in/mugamba-bruno-20629520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
+  <a href="https://www.linkedin.com/in/angella-mulikatete-7b83371a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
  <br/>
@@ -40,6 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> -->
  <img  alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+ ![Snake animation](https://github.com/bisaacm1/bisaacm1/blob/output/github-contribution-grid-snake.svg)
 
    <!-- <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="chartjs" width="40" height="40"/>
