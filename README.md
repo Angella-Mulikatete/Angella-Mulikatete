@@ -55,6 +55,12 @@ I'm a passionate Full-Stack Developer based in <strong>Uganda</strong>. I love b
 <br>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/> <b><i>My GitHub Stats & Most Used Languages</i></b>
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/Angella-Mulikatete">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angella-Mulikatete&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angella-Mulikatete&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
