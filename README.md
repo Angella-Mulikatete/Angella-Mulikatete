@@ -62,9 +62,11 @@ I'm a passionate Full-Stack Developer based in <strong>Uganda</strong>. I love b
 
 <div align="center">
   <a href="https://github.com/Angella-Mulikatete">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Angella-Mulikatete&theme=dracula&hide_border=false"/>
-  &nbsp;
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Angella-Mulikatete&theme=dracula"/>
+  &nbsp;
+  <img height="180em" src="https://streak-stats.demolab.com?user=Angella-Mulikatete&theme=dracula&hide_border=false"/>
+
+
   </a>
 </div>
 
