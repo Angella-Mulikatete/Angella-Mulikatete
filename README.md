@@ -1,4 +1,4 @@
-<h1 align="center">Oii, I'm Angella Mulikatete 💌🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h1 align="center">Hello, I'm Angella Mulikatete <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
 <h3 align="center">Passionate Developer in Uganda | Full-Stack Developer</h3>
 
 <p align="center">
